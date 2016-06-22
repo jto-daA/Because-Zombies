@@ -1,0 +1,6 @@
+c:\users\josiah\documents\visual studio 2010\Projects\GJ20215_BecauseZombies\GJ20215_BecauseZombies\GJ20215_BecauseZombies\bin\x86\Debug\GJ20215_BecauseZombies.exe
+c:\users\josiah\documents\visual studio 2010\Projects\GJ20215_BecauseZombies\GJ20215_BecauseZombies\GJ20215_BecauseZombies\bin\x86\Debug\GJ20215_BecauseZombies.pdb
+c:\users\josiah\documents\visual studio 2010\Projects\GJ20215_BecauseZombies\GJ20215_BecauseZombies\GJ20215_BecauseZombies\obj\x86\Debug\GJ20215_BecauseZombies.csprojResolveAssemblyReference.cache
+c:\users\josiah\documents\visual studio 2010\Projects\GJ20215_BecauseZombies\GJ20215_BecauseZombies\GJ20215_BecauseZombies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\josiah\documents\visual studio 2010\Projects\GJ20215_BecauseZombies\GJ20215_BecauseZombies\GJ20215_BecauseZombies\obj\x86\Debug\GJ20215_BecauseZombies.exe
+c:\users\josiah\documents\visual studio 2010\Projects\GJ20215_BecauseZombies\GJ20215_BecauseZombies\GJ20215_BecauseZombies\obj\x86\Debug\GJ20215_BecauseZombies.pdb
